@@ -61,10 +61,53 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 Pega aquí el enlace de Google Drive.
 
-# 💻 Tecnologías
+# 📈 Tecnologías Utilizadas
 
--   Python
--   Pandas
--   NumPy
--   SciPy
--   Jupyter Notebook
+| Herramienta | Uso |
+|------------|-----|
+| Python | Programación |
+| Pandas | Procesamiento de datos |
+| NumPy | Cálculo numérico |
+| SciPy | Inferencia Estadística |
+| Statsmodels | ANOVA |
+| Matplotlib | Visualización |
+| Seaborn | Gráficos Estadísticos |
+| Jupyter Notebook | Desarrollo |
+
+---
+
+# 📊 Competencias Desarrolladas
+
+✅ Programación Científica
+
+✅ Estadística Inferencial
+
+✅ Ciencia de Datos
+
+✅ Análisis Exploratorio
+
+✅ Interpretación de Resultados
+
+✅ Visualización de Datos
+
+---
+
+# 📌 Conclusiones
+
+Durante el desarrollo de la Unidad II fue posible integrar conceptos fundamentales de la inferencia estadística mediante la resolución de problemas reales utilizando datos oficiales de la provincia de Loja.
+
+La aplicación de pruebas paramétricas permitió comprender la importancia del diagnóstico previo de los datos, la interpretación del valor-p y la comparación de grupos mediante ANOVA, fortaleciendo la toma de decisiones basada en evidencia estadística.
+
+---
+
+<div align="center">
+
+# ⭐ Gracias por visitar este repositorio ⭐
+
+### Universidad Nacional de Loja
+
+### Carrera de Computación
+
+**Teoría de la Distribución y Probabilidad**
+
+</div>
