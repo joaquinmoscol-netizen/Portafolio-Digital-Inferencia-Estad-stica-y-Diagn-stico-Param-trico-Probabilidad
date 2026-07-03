@@ -1,3 +1,4 @@
+<div align="center">
 # 📊 Portafolio Digital
 
 ## Inferencia Estadística y Diagnóstico Paramétrico
