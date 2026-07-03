@@ -51,11 +51,11 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 # 🧪 APE09
 
-[📘 Hipótesis](APE09_Hipotesis.ipynb) Pruebas de hipótesis y valor-p.
+[📘 Hipótesis](APE_09_Hipotesis.ipynb) Pruebas de hipótesis y valor-p.
 
 # 🧪 APE10
 
-[📘 ANOVA](APE10_ANOVA.ipynb) ANOVA y Tukey.
+[📘 ANOVA](APE_010_ANOVA.ipynb) ANOVA y Tukey.
 
 # 🎥 Video
 
