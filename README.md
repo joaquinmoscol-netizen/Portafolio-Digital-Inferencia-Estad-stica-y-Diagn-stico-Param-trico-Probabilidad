@@ -39,7 +39,7 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 # 🧪 APE06
 
-[📘 Distribuciones Continuas](APE06_Distribuciones_Continuas_Notables.ipynb) Distribuciones continuas, histograma, KDE y gráfico Q-Q.
+[📘 Distribuciones Continuas](APE_006_Normal.ipynb) Distribuciones continuas, histograma, KDE y gráfico Q-Q.
 
 # 🧪 APE07
 
