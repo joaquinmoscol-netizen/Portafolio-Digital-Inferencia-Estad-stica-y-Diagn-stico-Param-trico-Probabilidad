@@ -57,6 +57,9 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 [📘 ANOVA](APE_010_ANOVA.ipynb) ANOVA y Tukey.
 
+# 📊 Competencias Desarrolladas
+[📈 Resultados Principales](Resultados_Estadisticos_Principales.md)
+
 # 🎥 Video
 
 Pega aquí el enlace de Google Drive.
