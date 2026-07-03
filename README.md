@@ -43,19 +43,19 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 # 🧪 APE07
 
-[📘 TLC](APE06_Distribuciones_Continuas_Notables.ipynb) Distribuciones muestrales y TLC.
+[📘 TLC](APE_007_TLC.ipynb) Distribuciones muestrales y TLC.
 
 # 🧪 APE08
 
-[📘 Intervalos de Confianza](APE06_Distribuciones_Continuas_Notables.ipynb) Intervalos de confianza.
+[📘 Intervalos de Confianza](APE_008_Intervalos.ipynb) Intervalos de confianza.
 
 # 🧪 APE09
 
-[📘 Hipótesis](APE06_Distribuciones_Continuas_Notables.ipynb) Pruebas de hipótesis y valor-p.
+[📘 Hipótesis](APE09_Hipotesis.ipynb) Pruebas de hipótesis y valor-p.
 
 # 🧪 APE10
 
-[📘 ANOVA](APE06_Distribuciones_Continuas_Notables.ipynb) ANOVA y Tukey.
+[📘 ANOVA](APE10_ANOVA.ipynb) ANOVA y Tukey.
 
 # 🎥 Video
 
