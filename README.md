@@ -39,23 +39,23 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 # 🧪 APE06
 
-Distribuciones continuas, histograma, KDE y gráfico Q-Q.
+[📘 Distribuciones Continuas](APE06_Distribuciones_Continuas_Notables.ipynb) Distribuciones continuas, histograma, KDE y gráfico Q-Q.
 
 # 🧪 APE07
 
-Distribuciones muestrales y TLC.
+[📘 TLC](APE06_Distribuciones_Continuas_Notables.ipynb) Distribuciones muestrales y TLC.
 
 # 🧪 APE08
 
-Intervalos de confianza.
+[📘 Intervalos de Confianza](APE06_Distribuciones_Continuas_Notables.ipynb) Intervalos de confianza.
 
 # 🧪 APE09
 
-Pruebas de hipótesis y valor-p.
+[📘 Hipótesis](APE06_Distribuciones_Continuas_Notables.ipynb) Pruebas de hipótesis y valor-p.
 
 # 🧪 APE10
 
-ANOVA y Tukey.
+[📘 ANOVA](APE06_Distribuciones_Continuas_Notables.ipynb) ANOVA y Tukey.
 
 # 🎥 Video
 
