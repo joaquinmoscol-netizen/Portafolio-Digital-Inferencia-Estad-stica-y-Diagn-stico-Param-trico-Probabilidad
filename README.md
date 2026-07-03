@@ -6,27 +6,36 @@
 **Carrera:** Computación\
 **Asignatura:** Teoría de la Distribución y Probabilidad
 
-------------------------------------------------------------------------
+### 👨‍🎓 Estudiante
+
+**Joaquín Emilio Moscol Castillo**
+
+### 👨‍🏫 Docente
+
+**Ing. Cristian Narváez G., Mg.Sc.**
+
+### 📅 Período Académico
+
+**2026**
+
+</div>
 
 # 📖 Presentación
 
-Este repositorio recopila las actividades desarrolladas durante la
-Unidad II utilizando Python y el dataset ENEMDU de Loja.
+Bienvenido al repositorio correspondiente al **Portafolio Digital de la Unidad II**, desarrollado para la asignatura **Teoría de la Distribución y Probabilidad**.
 
-------------------------------------------------------------------------
+En este repositorio se recopilan todas las actividades prácticas desarrolladas durante la unidad, aplicando técnicas de inferencia estadística mediante Python y utilizando información proveniente del dataset oficial **ENEMDU - Vivienda y Hogar**, filtrado para la provincia de Loja.
 
-# 🗂 Organización
+Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
-``` text
-README.md
-enemdu_loja_procesado.csv
-APE06_Distribuciones_Continuas_Notables.ipynb
-APE07_Distribuciones_Muestrales_TLC.ipynb
-APE08_Intervalos_Confianza.ipynb
-APE09_Pruebas_Hipotesis.ipynb
-APE10_ANOVA.ipynb
-Evaluacion_Sumativa_Unidad2.ipynb
-```
+- Distribuciones Continuas
+- Distribuciones Muestrales
+- Teorema del Límite Central
+- Intervalos de Confianza
+- Pruebas de Hipótesis
+- Valor-p
+- ANOVA
+- Pruebas Post-Hoc (Tukey)
 
 # 🧪 APE06
 
