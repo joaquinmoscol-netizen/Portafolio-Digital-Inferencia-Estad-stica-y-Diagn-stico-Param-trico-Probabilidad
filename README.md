@@ -62,7 +62,7 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 # 🎥 Video
 
-Pega aquí el enlace de Google Drive.
+[🎥 Ver Video y Evidencias en Google Drive](https://drive.google.com/drive/folders/1sFJdhI5o9KI99HLTtcu255drib0Ge34J?usp=sharing)
 
 # 📈 Tecnologías Utilizadas
 
